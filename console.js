@@ -9,3 +9,6 @@ export function GithubTest = () => {
     <h1> HI, GUYS! <h1>
   )
 }
+
+
+console.log("Opa, hehe :D")
